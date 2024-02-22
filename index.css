@@ -1,0 +1,31 @@
+section {
+    background-color: rgb(153, 172, 172);
+    display: inline-block;
+    margin: 20px;
+    margin-left: 40px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px;
+}
+
+h2 {
+    background-color: chocolate;
+    border: 2px solid black;
+    display: inline-block;
+    padding-right: 500px;
+    margin-left: 25px;
+}
+
+img {
+   
+    height: 170px;
+    width: 150px;
+    padding: 5px;
+
+}
+
+.imgSection{
+  position: relative;
+  top: 20px;
+  background-color: rgb(115, 169, 60);
+  box-shadow: 10px 10px 10px;
+}
